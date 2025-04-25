@@ -2,7 +2,7 @@
 
 ## Executive Summary: 
 
-Utilized the Python BeautifulSoup library to scrape data from the given article links and performed sentiment analysis on the scrapped data.
+Utilised the Python BeautifulSoup library to scrape data from the given article links and performed sentiment analysis on the scraped data.
 
 ## Business Problem:
 
